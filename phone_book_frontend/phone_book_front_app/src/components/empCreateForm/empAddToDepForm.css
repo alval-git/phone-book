@@ -1,0 +1,17 @@
+.empAddToDepWrapper{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.empAddToDep{
+    margin-top: 50px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
